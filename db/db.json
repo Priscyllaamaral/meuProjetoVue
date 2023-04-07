@@ -1,0 +1,88 @@
+{
+    "tipo":{
+        "opcao":[
+            {
+                "id": 1,
+                "tipo": "Gelada"
+            },
+            {
+                "id":2,
+                "tipo": "Creme"
+            },
+            {
+                "id":3,
+                "tipo": "Assada"
+            },
+            {
+                "id":4,
+                "tipo": "Mousse"
+            }
+        ],
+
+        "igredientes":[
+        {
+            "id":1,
+            "tipo": "leite de coco"
+        },
+        {   "id":2,
+            "tipo": "leite em pó"
+        },
+        {   "id":3,
+            "tipo": "leite condensado"
+        },
+        {   "id":4,
+            "tipo": "creme de leite"
+        },
+        {   "id":5,
+            "tipo": "creme-cheese"
+        },
+        {   "id":6,
+            "tipo": "farinha de trigo"
+        },
+        {   "id":7,
+            "tipo": "coco / coco-ralado"
+        },
+        {   "id":8,
+            "tipo": "amendoim"
+        },
+        {   "id":9,
+            "tipo":"castanhas"
+        },
+        {   "id":10,
+            "tipo": "biscoito"
+        },
+        {
+            "id":11,
+            "tipo": "açúcar"
+        },
+        {   "id":12,
+            "tipo": "ovo"
+        },
+        {   "id":13,
+            "tipo": "frutas"
+        },
+        {   "id":14,
+            "tipo": "chocolate"
+        },
+        {   "id":15,
+            "tipo": "nutella"
+        },
+        {   "id":16,
+            "tipo": "iogurte"
+        },
+        {   "id":17,
+            "tipo": "manteiga"
+        },
+        {   "id":18,
+            "tipo": "amido de milho"
+        },
+        {   "id":19,
+            "tipo":"gelatina"
+        },
+        {   "id":20,
+            "tipo": "mel"
+        }
+    ]
+},
+    "sobremesas": []
+}
