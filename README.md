@@ -1,6 +1,3 @@
-Projeto em andamento, utilizando Vue 3 + bootstrap. Utilizando API fake json-server. 
-
-
 # segundo
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -30,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+#### ADICIONAIS
+Projeto em andamento, utilizando Vue 3 + bootstrap. Utilizando API fake json-server. 
