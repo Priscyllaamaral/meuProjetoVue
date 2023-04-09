@@ -1,4 +1,4 @@
-/**  Comentário para fazer commit 2.1 */
+/**  Comentário para fazer commit 2.2 */
 
 <template>
 
