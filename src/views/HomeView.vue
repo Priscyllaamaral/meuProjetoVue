@@ -100,7 +100,7 @@ export default{
               <div  class="checkbox">
          
             
-                <div v-for="op in opcoes.igredientes" :key="op.id" class="form-check " >
+                <div v-for="op in opcoes.ingredientes" :key="op.id" class="form-check " >
                   <input class="form-check-input" type="checkbox">
                   <label class="form-check-label espaco " for="flexCheckDefault">
                     {{ op.tipo }}
